@@ -1,4 +1,4 @@
-# Hello everyone! I'm Aleks :smile: :wave:
+# Hello everyone! :smile: :wave:
 
 
 <img src="https://i.imgur.com/GjiJIye.png">
