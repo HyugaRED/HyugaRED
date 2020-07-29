@@ -10,13 +10,13 @@ Trainer developer at [@BeCode](https://becode.org/)
 **- 🔭 I’m currently working on ...**
 
   
-<img src="https://wiseedblog.files.wordpress.com/2017/06/attente.gif">   Js, 
+- Js, 
       
-      Css,
+- Css,
       
-      SASS, 
+- SASS, 
       
-      Php,
+- Php,
 
 **- You can reach me any time :alarm_clock: ...**
 ##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
