@@ -7,6 +7,8 @@
 
 Trainer developer at [@BeCode](https://becode.org/) 
 
+<img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif">
+
 **- 🔭 I’m currently working on ...**
 
   
@@ -18,7 +20,13 @@ Trainer developer at [@BeCode](https://becode.org/)
       
 - Php,
 
+<img src="https://i.pinimg.com/originals/07/24/88/0724884440e8ddd0896ff557b75a222a.gif">
+
 **- You can reach me any time :alarm_clock: ...**
+
+
 ##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
+
+
 ##### :point_right:Linkedin Profle [Click here](https://www.linkedin.com/in/aleksandra-slowik-dev/)
 
