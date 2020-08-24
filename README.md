@@ -38,5 +38,5 @@ Trainer developer at [@BeCode](https://becode.org/)
 
 ##### :point_right:Linkedin Profile [Click here](https://www.linkedin.com/in/aleksandra-slowik-dev/)
 
-##### :point_right:Twitter [https://twitter.com/aleksandraslow5]()
+##### :point_right:Twitter  [Click here](https://twitter.com/aleksandraslow5)
 
