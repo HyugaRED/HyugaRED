@@ -36,6 +36,7 @@ Trainer developer at [@BeCode](https://becode.org/)
 
 ##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
 
-
 ##### :point_right:Linkedin Profile [Click here](https://www.linkedin.com/in/aleksandra-slowik-dev/)
+
+##### :point_right:Twitter [https://twitter.com/aleksandraslow5]()
 
