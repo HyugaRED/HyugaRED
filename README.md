@@ -4,7 +4,7 @@
 
 
 
-Trainer developer at [@BeCode](https://becode.org/) 
+Trainer developer at [@BeCode](https://becode.org/) since june 2020.
 
 
 
