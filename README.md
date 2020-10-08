@@ -35,7 +35,7 @@ Trainer developer at [@BeCode](https://becode.org/) since june 2020.
 
 
 
-**- You can reach me any time :alarm_clock: ...**
+# **- You can reach me any time :alarm_clock: ...**
 
 
 ##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
