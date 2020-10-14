@@ -32,6 +32,15 @@ Trainer developer at [@BeCode](https://becode.org/) since june 2020.
 <a><img align="left" alt="GitKraken" width="30px" src="https://www.gitkraken.com/img/keif-gallery/gallery-keif.jpg" /><a/>
 <a><img align="left" alt="Heroku" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKWh6WVL_GbOx7gn03ia9JFaplrdXksdLX1w&usqp=CAU" /><a/>
 <a><img align="left" alt="Docker" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTai6fO9PKg20-B8psyaJA7rSBO6Asu2m5ug&usqp=CAU" /><a/><br />
+ 
+ ## Soft skills 
+ 
+ - Stress resistant
+ - Change esthusiast
+ - Team player
+ - Reliable
+ - Challenge seeker
+ - Solution oriented
 
 
 
