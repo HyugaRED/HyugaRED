@@ -11,7 +11,7 @@ Trainer developer at [@BeCode](https://becode.org/) since june 2020.
 ### Main languages
 
 <img align="left" alt="PHP" width="26px" src="https://multarte.com.br/wp-content/uploads/2015/07/php1.png"/>
-<img align="left" alt="Laravel" width="26px" src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"/>
+<img align="left" alt="Laravel" width="30px" src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> 
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.1min30.com/wp-content/uploads/2017/03/logo-WordPress.jpg"/>
