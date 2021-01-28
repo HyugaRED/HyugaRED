@@ -4,7 +4,7 @@
 
 
 
-Trainer developer at [@BeCode](https://becode.org/) since june 2020.
+I'm curently on my intership since December 2020. Working on 2 websites for Metrac INT.
 
 
 
