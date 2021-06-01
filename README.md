@@ -4,9 +4,6 @@
 
 
 
-I'm curently on my intership since December 2020. Working on 2 websites for Metrac INT.
-
-
 
 ### Main languages
 
