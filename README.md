@@ -53,8 +53,6 @@
 ## You can reach me any time :alarm_clock: ...
 
 
-##### :point_right:Mail me [aleksandra.slowik88@gmail.com]()
-
 ##### :point_right:Linkedin Profile [Click here](https://www.linkedin.com/in/aleksandra-slowik-dev/)
 
 ##### :point_right:Twitter  [Click here](https://twitter.com/aleksandraslow5)
