@@ -1,7 +1,5 @@
 <h1 align="center">HYŪGA</h1>
-<p align="center">
-  <img src="logo_hyuga_rouge_noir_compressed.png" width="150" alt="Hyuga Logo">
-</p>
+
 
 ---
 
@@ -26,14 +24,10 @@
 
 🧰 **Tech Arsenal (Past + Present)**  
 - Web Dev: PHP · Laravel · JS · MySQL · HTML5/CSS3  
-- GitHub Pro | Former full-stack dev @ BeCode Charleroi  
+- GitHub Pro | Former backend dev @ BeCode Charleroi  
 - Now shifting all power toward CyberOffense ⚔️
 
 ---
 
-💡 **Motto**  
-_"Stay in the shadows. Strike with precision. Rise with intention."_
-
----
 
 🔗 [My Lab & Writeups coming soon...]
