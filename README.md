@@ -1,33 +1,31 @@
 <h1 align="center">HYŪGA</h1>
 
-
 ---
 
-🛡️ **Red Team in Training**  
-🧠 Neurodivergent | Multipotentialite | Tunnel Vision Mode: ON  
-🌒 Hacking my way through the shadows — one shell at a time.
+🛡️ **Red Team Apprentice**  
+🧠 Neurodivergent | Multipotentialite | Tunnel Vision: Engaged  
+🌒 Navigating the offensive side of cybersecurity — with focus and intent.
 
 ---
 
 🔍 **Currently Learning**  
-- Penetration Testing (Red Team)  
-- OSINT, Privilege Escalation, Post-Exploitation  
-- Linux, Networking, Scripting (Bash & Python)  
+- Penetration Testing (Red Team methodology)  
+- OSINT · Privilege Escalation · Post-Exploitation  
+- Linux internals · Networking · Bash & Python scripting  
 - Tools: Nmap · Burp Suite · Metasploit · Hydra · Wireshark · Gobuster
 
-🎯 **Next Missions**  
-- Build a fully operational lab (Hybrid Ubuntu/Kali)  
-- Document all exploits & challenges in GitHub Labs  
-- Achieve my first cert (PNPT or OSCP)
+🎯 **Next Objectives**  
+- Build a fully operational hybrid lab   
+- Document every exploit, lab and finding on GitHub  
+- Work toward my first cert (PNPT or OSCP)
 
 ---
 
-🧰 **Tech Arsenal (Past + Present)**  
-- Web Dev: PHP · Laravel · JS · MySQL · HTML5/CSS3  
-- GitHub Pro | Former backend dev @ BeCode Charleroi  
-- Now shifting all power toward CyberOffense ⚔️
+🧰 **Background & Stack**  
+- Past: PHP · Laravel · JS · MySQL · HTML5/CSS3  
+- GitHub Pro · Former backend developer (BeCode Charleroi)  
+- Now fully focused on Cybersecurity and Red Team training
 
 ---
 
-
-🔗 [My Lab & Writeups coming soon...]
+🔗 [Lab & Writeups coming soon...]
