@@ -3,7 +3,7 @@
 
 ---
 
-🛡️ **Red Team Apprentice | Ethical Hacker in Training**  
+🛡️ **Red Team in Training**  
 🧠 Neurodivergent | Multipotentialite | Tunnel Vision Mode: ON  
 🌒 Hacking my way through the shadows — one shell at a time.
 
