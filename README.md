@@ -3,7 +3,7 @@
 ---
 
 🛡️ **Red Team Apprentice**  
-🧠 Neurodivergent | Multipotentialite | Tunnel Vision: Engaged  
+🧠 Neurodivergent | Multipotentialite
 🌒 Navigating the offensive side of cybersecurity — with focus and intent.
 
 ---
