@@ -1,31 +1,45 @@
 <h1 align="center">HYŪGA</h1>
 
----
+<p align="center">
+<code>red@hyuga:~$</code> cat identity.txt  
+</p>
 
-🛡️ **Red Team Apprentice**  
-🧠 Neurodivergent | Multipotentialite
-🌒 Navigating the offensive side of cybersecurity — with focus and intent.
+Neurodivergent · Multipotentialite · Recursive by nature
+Navigating cyber with precision, chaos, and a quiet burn
 
----
-
-🔍 **Currently Learning**  
-- Penetration Testing (Red Team methodology)  
-- OSINT · Privilege Escalation · Post-Exploitation  
-- Linux internals · Networking · Bash & Python scripting  
-- Tools: Nmap · Burp Suite · Metasploit · Hydra · Wireshark · Gobuster
-
-🎯 **Next Objectives**  
-- Build a fully operational hybrid lab   
-- Document every exploit, lab and finding on GitHub  
-- Work toward my first cert (PNPT or OSCP)
 
 ---
 
-🧰 **Background & Stack**  
-- Past: PHP · Laravel · JS · MySQL · HTML5/CSS3  
-- GitHub Pro · Former backend developer (BeCode Charleroi)  
-- Now fully focused on Cybersecurity and Red Team training
+🛡️ **Current Focus**  
+- Offensive Security · Red Team Ops  
+- Linux Internals · Networking · Bash/Python  
+- Post-Exploitation · OSINT · Privilege Escalation
+
+📦 Tools in loop: Nmap · Hydra · Burp · Wireshark · Metasploit
 
 ---
 
-🔗 [Lab & Writeups coming soon...]
+🎯 **Mission Parameters**
+- Build hybrid lab · Log everything  
+- Cert in sight: PNPT or OSCP  
+- No hype. No noise. Just signal.  
+- _Persistence > Perfection_
+
+---
+
+🧰 **Background**
+- Web backend (Laravel, JS, MySQL)  
+- Ex-BeCode Charleroi · GitHub Pro  
+- Now: Full cyber pivot · Full commit
+
+---
+
+🌀 **Field Notes**
+> This isn’t a portfolio.  
+> It’s a recursive memory map in the shape of a GitHub repo.  
+> Signals. Fragments. Controlled entropy.
+
+---
+
+🔗 **Access point →** [HyugaLog](https://88aleksandra88.github.io/HyugaLog/)  
+*Enter the vortex. Stay for the recursion.*
