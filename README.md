@@ -41,5 +41,5 @@ Navigating cyber with precision, chaos, and a quiet burn
 
 ---
 
-🔗 **Access point →** [HyugaLog](https://88aleksandra88.github.io/HyugaLog/)  
+🔗 **Access point →** [HyugaLog](https://HyugaRED.github.io/HyugaLog/)  
 *Enter the vortex. Stay for the recursion.*
