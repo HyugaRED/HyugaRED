@@ -1,4 +1,4 @@
-<h1 align="center">HYŪGA</h1>
+<h1 align="center">HYŪGA RED</h1>
 
 <p align="center"><code>red@hyuga:~$</code> cat identity.txt</p>
 
