@@ -3,35 +3,35 @@
 <p align="center"><code>red@hyuga:~$</code> cat identity.txt</p>
 
 <p align="center">
-Neurodivergent · Multipotentialite · Recursive by design  
+Neurodivergent · Multipotentialite · Recursive by design<br>
 Tactician of chaos · Human vector exploiter · Silent operator
 </p>
 
 ---
 
 ### 🛡️ Current Focus
-- Red Team Operations · Offensive Security  
+- **Red Team Operations** · Offensive Security  
 - **Social Engineering** · OSINT · Psychological Exploitation  
 - Post-Exploitation · Linux Internals · Privilege Escalation  
 - Weapon of choice: **Kali Linux**, no duality. Only signal.
 
-🛠️ Stack in use: `Nmap` · `Burp` · `Hydra` · `Impacket` · `Metasploit` · `Spiderfoot` · `custom scripts`
+🛠️ Stack: `Nmap` · `Burp` · `Hydra` · `Impacket` · `Metasploit` · `Spiderfoot` · `Custom Scripts`
 
 ---
 
 ### 🎯 Mission Parameters
 - Operate full-time on **Kali Linux**  
 - Master human vectors & information warfare  
-- Cert route: `PNPT` or `OSCP` (Red Pill path)  
-- Design everything with intent: tools, mindset, ecosystem  
+- Certification path: `PNPT` or `OSCP` (Red Pill protocol)  
+- Build everything with intent: tools, mindset, ecosystem  
 - _Psychology > Tools. Signal > Style. Persistence > Perfection._
 
 ---
 
 ### 🧰 Background
-- Web backend (Laravel · JS · PHP · MySQL)  
-- GitHub Pro since 2020 · Ex-BeCode Charleroi  
-- Now: **Red Team pivot with human-first mindset**  
+- Ex-web backend (Laravel · JS · PHP · MySQL)  
+- GitHub Pro since 2020 · ex-BeCode Charleroi  
+- Now: **Red Team operator with a human-first mindset**  
 - Philosophy: Tactical thinking > Tactical gear
 
 ---
@@ -44,7 +44,8 @@ Tactician of chaos · Human vector exploiter · Silent operator
 
 ---
 
-### 🔗 Access Point → [HyugaLog](https://HyugaRED.github.io/HyugaLog/)
+### 🔗 Access Point
+🌐 [Hyuga.red](https://hyuga.red) · [HyugaLog](https://hyugared.github.io/HyugaLog)  
 > _Enter the vortex. Stay for the recursion._
 
 ---
